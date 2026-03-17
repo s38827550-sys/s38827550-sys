@@ -11,9 +11,12 @@
 ### 🐸 Frog Jump Game (Full Stack + Game + Server)
 
 Frog Jump Game System
-├── 🎮 Game Client (Pygame) 🔗 GitHub: https://github.com/s38827550-sys/FrogJumpGame
-├── 🌐 Web Frontend (HTML / JavaScript) 🔗 GitHub: https://github.com/s38827550-sys/frogjump-leaderboard
-└── 🖥 Backend Server (FastAPI) 🔗 GitHub: https://github.com/s38827550-sys/frogjump-leaderboard-web
+├── 🎮 Game Client (Pygame)
+|   🔗 GitHub: https://github.com/s38827550-sys/FrogJumpGame
+├── 🌐 Web Frontend (HTML / JavaScript) 
+|   🔗 GitHub: https://github.com/s38827550-sys/frogjump-leaderboard
+├── 🖥 Backend Server (FastAPI) 
+└── 🔗 GitHub: https://github.com/s38827550-sys/frogjump-leaderboard-web
 
 **✔ 핵심 기능**
 
