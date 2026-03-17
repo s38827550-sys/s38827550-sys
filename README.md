@@ -63,4 +63,75 @@ JWT 인증 기반 로그인 시스템을 직접 구현하고 있어요.
 ## 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.16%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 34.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 48 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10 commits          ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+🌆 Daytime                31 commits          ███████████████████░░░░░░   75.61 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Tuesday                  25 commits          ███████████████░░░░░░░░░░   60.98 % 
+Wednesday                12 commits          ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+Python                   2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+Ruby                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/s38827550-sys/s38827550-sys/main/assets/bar_graph.png)
+
+
+ Last Updated on 17/03/2026 07:06:24 UTC
 <!--END_SECTION:waka-->
