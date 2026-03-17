@@ -59,3 +59,8 @@ JWT 인증 기반 로그인 시스템을 직접 구현하고 있어요.
 ## Certificate
 
 - SQLD
+
+## 📊 This Week I Spent My Time On
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
