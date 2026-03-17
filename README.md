@@ -10,6 +10,11 @@
 
 ### 🐸 Frog Jump Game (Full Stack + Game + Server)
 
+Frog Jump Game System
+├── 🎮 Game Client (Pygame) 🔗 GitHub: https://github.com/s38827550-sys/FrogJumpGame
+├── 🌐 Web Frontend (HTML / JavaScript) 🔗 GitHub: https://github.com/s38827550-sys/frogjump-leaderboard
+└── 🖥 Backend Server (FastAPI) 🔗 GitHub: https://github.com/s38827550-sys/frogjump-leaderboard-web
+
 **✔ 핵심 기능**
 
 * FastAPI 기반 REST API 서버 구축
@@ -29,9 +34,6 @@ Frontend (Vercel) → FastAPI (Render) → Database
 
 * `POST /score` : 점수 저장
 * `GET /leaderboard` : 랭킹 조회
-
-🔗 Live Demo: (배포 링크 넣기)
-🔗 GitHub: (레포 링크 넣기)
 
 ---
 
