@@ -1,24 +1,29 @@
 # Hi, I'm TaeGeukKIM 👋
 
-만 24살, 백엔드 개발자를 목표로 달리고 있어요.
+> 🎮 Game → 🖥 Server → 🌐 Web → 🕹 Web Game  
+> 만들고 싶은 게 생기면, 일단 만들어요.
 
-게임 하나 만들다가 서버가 궁금해지고, 서버 만들다가 DB가 궁금해졌어요.  
-그렇게 하나씩 연결하다 보니 어느새 클라이언트–서버–DB를 혼자 다 붙여봤습니다.  
-아직 모르는 게 훨씬 많아요. 그래서 매일이 재밌어요.
+2025년 12월에 개발을 시작했어요.  
+처음엔 게임 하나 만들어보려 했는데, 어느새 서버를 짜고 있었고, 그 다음엔 웹페이지를 운영하고 있었어요.  
+배움이 계획을 앞질러가는 타입이에요.
+
+지금은 **새로운 웹페이지 위에서 플레이할 수 있는 웹게임**을 만드는 게 다음 목표예요.
+
+---
 
 ## About Me
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=s38827550-sys.s38827550-sys)](https://github.com/s38827550-sys)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:your@email.com)](mailto:your@email.com)
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:s38827550@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/s38827550-sys?color=27da6b&logo=Handshake)](https://github.com/s38827550-sys?tab=followers)
+
+---
 
 ## Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)](https://www.pygame.org)
-[![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=gunicorn&logoColor=white)](https://www.uvicorn.org)
-[![Threading](https://img.shields.io/badge/Threading-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/threading.html)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)](https://www.pygame.org)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -28,7 +33,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
 [![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)](https://render.com)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com)
+
+---
 
 ## 🐸 Frog Jump Game
 
@@ -37,6 +43,13 @@
 게임을 만들다가 서버가 필요해졌고, 서버를 만들다가 랭킹 페이지가 갖고 싶어졌어요.  
 결국 게임 · 서버 · 웹 세 가지를 전부 직접 연결하게 됐고,  
 24살에 이 구조를 혼자 설계하고 배포까지 해봤다는 게 저한테는 꽤 큰 경험이었어요.
+
+**v1.0에서 바뀐 것들**
+
+- 🎨 동글동글한 폰트와 아기자기한 테마 적용
+- 🏆 게임 오버 시 메달 시스템이 있는 랭킹 보드 추가
+- ⏱ 시간 10초 이하일 때 두근거리는 HUD 애니메이션
+- 🧩 `core/` 패키지로 완전히 모듈화
 
 **만들면서 막혔던 것들**
 
@@ -48,15 +61,30 @@
 [![Game](https://img.shields.io/badge/🎮_Game_Client-181717?style=flat&logo=github)](https://github.com/s38827550-sys/FrogJumpGame)
 [![Backend](https://img.shields.io/badge/🖥_Backend_Server-181717?style=flat&logo=github)](https://github.com/s38827550-sys/frogjump-leaderboard)
 [![Web](https://img.shields.io/badge/🌐_Web_Frontend-181717?style=flat&logo=github)](https://github.com/s38827550-sys/frogjump-leaderboard-web)
+[![Live](https://img.shields.io/badge/🔴_Live_Leaderboard-009688?style=flat)](https://frogjump-leaderboard-web.vercel.app/)
 
+---
 
-## Now Learning
+## 🚀 Now Building
 
-JWT 인증 기반 로그인 시스템을 직접 구현하고 있어요.  
-인증과 보안 구조에 관심이 생기면서, 백엔드를 더 깊게 이해하고 싶어졌어요.  
-24살이라는 나이가 부담이 아니라 무기가 될 수 있도록, 지금 이 시간을 제대로 쓰고 싶어요.
+현재 직접 만든 웹페이지를 운영 중이에요.  
+다음 스텝은 새로운 웹페이지를 하나 만들어 그 안에서 바로 플레이할 수 있는 **웹게임을 새로 개발**하는 거예요.
 
-## Stats
+Pygame으로 데스크탑 게임을 만들어봤다면, 이번엔 브라우저 위에서 돌아가는 게임이에요.  
+게임 로직 · 서버 연동 · 배포까지 — 환경이 바뀌면 또 새로 배우는 게 생기더라고요.  
+막히는 게 생기는 게 오히려 신호라는 걸, 이제는 알아요.
+
+---
+
+## 🏆 Certificate
+
+| 자격증 | 취득일 |
+|--------|--------|
+| SQLD (SQL 개발자) | 2026. 03. 20 |
+
+---
+
+## 📊 Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=s38827550-sys&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=default)](https://github.com/s38827550-sys)
 
@@ -64,85 +92,9 @@ JWT 인증 기반 로그인 시스템을 직접 구현하고 있어요.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s38827550-sys&layout=compact&hide_border=true&theme=default)](https://github.com/s38827550-sys)
 
-## Certificate
+---
 
-- SQLD
-
-## 📊 This Week I Spent My Time On
+## ⏱ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2043%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-164.57%20thousand%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 41.2 kB Used in GitHub's Storage 
- > 
-> 🏆 107 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                22 commits          ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-🌆 Daytime                66 commits          █████████████████░░░░░░░░   67.35 % 
-🌃 Evening                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   21 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Tuesday                  32 commits          ████████░░░░░░░░░░░░░░░░░   32.65 % 
-Wednesday                26 commits          ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Thursday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Friday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Python                   1 hr 56 mins        ██████████████████░░░░░░░   71.48 % 
-JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-TOML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-
-🔥 Editors: 
-Cursor                   2 hrs 43 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-FTG-server               2 hrs 35 mins       ████████████████████████░   95.55 % 
-
-새로운프로젝트                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-
-💻 Operating System: 
-Windows                  2 hrs 43 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Ruby                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-```
-
-
-
-
- Last Updated on 24/03/2026 04:29:10 UTC
 <!--END_SECTION:waka-->
