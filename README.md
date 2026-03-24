@@ -21,18 +21,31 @@
 
 ## Tech Stack
 
+**Languages & Frameworks**
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=gunicorn&logoColor=white)](https://www.uvicorn.org)
 [![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)](https://www.pygame.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)](https://reactrouter.com)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Database**
+
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+
+**Platforms & Tools**
+
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)](https://render.com)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com)
 
 ---
 
@@ -41,7 +54,7 @@
 > Python을 공부하려고 게임을 만들기 시작했는데, 만들다 보니 점수를 저장하고 싶어졌어요.
 
 게임을 만들다가 서버가 필요해졌고, 서버를 만들다가 랭킹 페이지가 갖고 싶어졌어요.  
-결국 게임 · 서버 · 웹 세 가지를 전부 직접 연결하게 됐고,  
+그 다음엔 회원가입·로그인·게시판·포인트 시스템까지 갖춘 **공식 웹 플랫폼**을 직접 만들었어요.  
 24살에 이 구조를 혼자 설계하고 배포까지 해봤다는 게 저한테는 꽤 큰 경험이었어요.
 
 **v1.0에서 바뀐 것들**
@@ -60,15 +73,16 @@
 
 [![Game](https://img.shields.io/badge/🎮_Game_Client-181717?style=flat&logo=github)](https://github.com/s38827550-sys/FrogJumpGame)
 [![Backend](https://img.shields.io/badge/🖥_Backend_Server-181717?style=flat&logo=github)](https://github.com/s38827550-sys/frogjump-leaderboard)
-[![Web](https://img.shields.io/badge/🌐_Web_Frontend-181717?style=flat&logo=github)](https://github.com/s38827550-sys/frogjump-leaderboard-web)
-[![Live](https://img.shields.io/badge/🔴_Live_Leaderboard-009688?style=flat)](https://frogjump-leaderboard-web.vercel.app/)
+[![Web Legacy](https://img.shields.io/badge/🌐_Web_Leaderboard-181717?style=flat&logo=github)](https://github.com/s38827550-sys/frogjump-leaderboard-web)
+[![Web Platform](https://img.shields.io/badge/🚀_Official_Web_Platform-181717?style=flat&logo=github)](https://github.com/s38827550-sys/frogjump-web)
+[![Live](https://img.shields.io/badge/🔴_Live_Site-009688?style=flat)](https://frogjump-web.vercel.app/)
 
 ---
 
 ## 🚀 Now Building
 
 현재 직접 만든 웹페이지를 운영 중이에요.  
-다음 스텝은 새로운 웹페이지를 하나 만들어 그 안에서 바로 플레이할 수 있는 **웹게임을 새로 개발**하는 거예요.
+다음 스텝은 새로운 웹페이지 안에서 바로 플레이할 수 있는 **웹게임을 새로 개발**하는 거예요.
 
 Pygame으로 데스크탑 게임을 만들어봤다면, 이번엔 브라우저 위에서 돌아가는 게임이에요.  
 게임 로직 · 서버 연동 · 배포까지 — 환경이 바뀌면 또 새로 배우는 게 생기더라고요.  
