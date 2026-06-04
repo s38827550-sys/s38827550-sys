@@ -17,7 +17,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/s38827550-sys?color=27da6b&logo=Handshake)](https://github.com/s38827550-sys?tab=followers)
 
 - 🔭 신입 **데이터 엔지니어 / 백엔드 개발자** 취업 준비 중
-- 🌱 현재 학습 중: Apache Airflow · Kafka · Docker
+- 🌱 현재 학습 중: Apache Airflow · Kafka
 - 🏆 SQLD 취득 (2026.03)
 - 💬 관심 분야: Data Pipeline · ETL · AI 연동 시스템
 
