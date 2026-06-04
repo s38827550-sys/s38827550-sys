@@ -128,15 +128,10 @@ Docker · docker-compose로 실행 환경을 컨테이너화하여 재현 가능
 
 ## 📊 Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=s38827550-sys&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=default)](https://github.com/s38827550-sys)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=s38827550-sys&show_icons=true&hide_border=true&include_all_commits=true&theme=default)](https://github.com/s38827550-sys)
 
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=s38827550-sys&hide_border=true&theme=default)](https://github.com/s38827550-sys)
+[![GitHub streak](https://streak-stats.demolab.com/?user=s38827550-sys&hide_border=true&theme=default)](https://github.com/s38827550-sys)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s38827550-sys&layout=compact&hide_border=true&theme=default)](https://github.com/s38827550-sys)
 
 ---
-
-## ⏱ This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
