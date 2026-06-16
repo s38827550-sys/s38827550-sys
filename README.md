@@ -1,4 +1,4 @@
-# Hi, I'm TaeGeuk Kim 👋
+# Hi, I'm TaeGeuk Kim
 
 **Python 기반 데이터 파이프라인 · 백엔드 시스템을 설계하는 개발자입니다.**
 
@@ -31,7 +31,7 @@
 
 ## Projects
 
----
+
 
 ### 🔄 공공데이터 ETL 파이프라인 (서울시 대기질)
 
