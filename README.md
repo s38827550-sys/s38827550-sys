@@ -69,7 +69,7 @@ Connection Pool도 같은 맥락으로 검토했음.
 <!-- SELECT COUNT(*), MIN(measure_time), MAX(measure_time) FROM air_quality; -->
 - 운영 **7일간 4400건** 수집, 중복 삽입 **0건** 확인 (ON CONFLICT 트리거 횟수 대비)
 - UptimeRobot 기준 가동률 **100%**
-- `/health` 응답시간 평균 **[N]ms**
+- DB 조회 엔드포인트 평균 응답시간 **665ms** (Render 무료 플랜 · Supabase Connection Pooler 환경)
 
 ---
 
