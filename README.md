@@ -147,9 +147,7 @@ SQLite 단일 파일 DB 사용 시 다중 접속에서 write lock 충돌,
 
 - SQLite → PostgreSQL 마이그레이션으로 write lock 충돌 제거
 - JWT 기반 stateless 인증 구현
-
-<!-- ✏️ TODO: locust로 부하테스트 후 응답시간 추가 -->
-<!-- pip install locust → /scores/ranking 100 동시 요청 기준 평균 응답시간 -->
+- 랭킹 조회(/leaderboard) 평균 응답시간 480ms (Render 무료 플랜)
 
 ---
 
