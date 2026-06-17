@@ -149,7 +149,8 @@ SQLite 단일 파일 DB 사용 시 다중 접속에서 write lock 충돌,
 
 - SQLite → PostgreSQL 마이그레이션으로 write lock 충돌 제거
 - JWT 기반 stateless 인증 구현
-- 랭킹 조회(/leaderboard) 평균 응답시간 480ms (Render 무료 플랜)
+- API 평균 응답시간 약 450ms (Render 무료 플랜 · 미국 리전 → 한국 클라이언트 기준)
+- 개선 여지: 한국 리전 유료 플랜 전환 시 100ms 이하 예상
 
 ---
 
