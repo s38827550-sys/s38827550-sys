@@ -1,9 +1,11 @@
 # Hi, I'm TaeGeuk Kim
 
-**Python 기반 데이터 파이프라인 · 백엔드 시스템을 설계하는 개발자입니다.**
+**빠르게 배우고, 바로 만들어내는 Python 백엔드 개발자입니다.**
 
-설계 의사결정과 그 근거를 남기는 것을 중요하게 생각합니다.  
-"왜 이 방법인가"를 항상 먼저 질문합니다.
+- 부트캠프 약 6개월 동안 Python · FastAPI · PostgreSQL · Docker를 독학하여 3개의 프로젝트를 완성했습니다.
+- 새로운 기술을 빠르게 습득하고 실제 프로젝트에 적용하며 검증하는 것을 중요하게 생각합니다.
+- 문제를 해결하기 위해 다양한 선택지를 비교하고, 근거 있는 설계 의사결정을 기록하는 개발자입니다.
+- 프로젝트를 통해 97% 데이터 볼륨 감소, 43개의 단위 테스트, 운영 7일간 중복 데이터 0건 등의 결과를 만들었습니다.
 
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:s38827550@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/s38827550-sys?color=27da6b&logo=Handshake)](https://github.com/s38827550-sys?tab=followers)
